@@ -1,2 +1,1 @@
-Ruby
-====
+All these files in this repo are using the Ruby language.
